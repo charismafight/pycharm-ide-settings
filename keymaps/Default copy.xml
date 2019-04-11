@@ -1,28 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
-  <action id="ContextHelp" />
-  <action id="EditorContextInfo" />
-  <action id="EditorJoinLines" />
-  <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
-  <action id="InsertLiveTemplate" />
   <action id="QuickImplementations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
-  </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
 </keymap>
